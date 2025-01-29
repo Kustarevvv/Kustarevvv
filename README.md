@@ -10,7 +10,3 @@
     <img src="https://img.shields.io/badge/Вконтакте-blue?logo=vk&logoColor=white&style=for-the-badge" alt="Vkontacte Badge"/>
   </a>
 </div>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?Kustarevvv&style=flat-square&color=blue" alt=""/>
-</div>
